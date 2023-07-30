@@ -1,4 +1,4 @@
-# Coding-for-Everyone-C-and-C-Specialization
+# Coding-for-Everyone-C-and-C-Specialization-University-of-California-Santa-Cruz-Coursera
 
 https://www.coursera.org/specializations/coding-for-everyone
 
