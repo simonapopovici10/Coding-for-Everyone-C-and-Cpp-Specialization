@@ -1,11 +1,7 @@
 /*Use a struct to define a card as an enumerated member that is its suit value and a short that is its pips value.
-
 Write a function that randomly shuffles the deck.
-
-Submit your work as a text file. 
-
 Then deal out 7 card hands and evaluate the probability that a hand has no pair, one pair, two pair, three of a kind, full house and 4 of a kind.  
-This is a Monte Carlo method to get an approximation to these probabilities.  Use at least 1 million randomly generated hands.*/
+This is a Monte Carlo method to get an approximation to these probabilities.*/
 
 #include <stdio.h>
 #include <stdlib.h>
