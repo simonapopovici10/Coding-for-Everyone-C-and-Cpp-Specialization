@@ -1,3 +1,13 @@
+/* Open and read a file of integer pairs into an array that is created with the first integer telling you how many to read. 
+Each pair will be a stuct rational -meaning it represents a rational number. So a struct will have two members—the numerator and the denominator.
+
+So 2  9  11  4  5  would mean create an rational  array size 2 and read in the remaining 4 values into data[].   
+Data[0] will be (9,11)  - the rational 9/11. Data[1] will be (4, 5)—the rational 4/5.
+
+Write four  routines to add rationals, multiply rationals, subtract rationals and divide rationals.  
+Take the file posted with this homework and  produce the sum of all the rationals and the average of all the rationals in the file.*/
+
+
 #include <stdio.h> 
 #include <stdlib.h> // for the exit() and malloc()
 
