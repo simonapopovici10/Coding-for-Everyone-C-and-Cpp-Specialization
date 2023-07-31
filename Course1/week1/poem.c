@@ -1,3 +1,5 @@
+//Use the printf() statement to output a poem of your choice.
+
 
 #include <stdio.h>
 
