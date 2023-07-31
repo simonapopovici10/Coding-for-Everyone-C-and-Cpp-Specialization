@@ -1,3 +1,5 @@
+//Write a program that prints the sine function for an input x between (0, 1)
+
 #include <stdio.h>
 #include <math.h>
 
