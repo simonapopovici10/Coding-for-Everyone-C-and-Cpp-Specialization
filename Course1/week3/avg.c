@@ -1,3 +1,5 @@
+//Compute the average weight for a population of elephant seals read into an array
+
 #include <stdio.h>
 
 int main(void)
