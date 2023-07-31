@@ -1,3 +1,5 @@
+//Write a function that prints a table of values for sine and cosine between (0, 1)
+
 
 #include <stdio.h>
 #include <math.h>
